@@ -32,7 +32,7 @@ pip install tensorflow opencv-python numpy
 
 The script uses the MiDaS v2.1 small TFLite model. Follow these steps to download it:
 
-1. Visit the [GitHub repository for MiDaS TFLite](https://github.com/ibaiGorordo/Midasv2_1_small-TFLite-Inference/tree/main/models).
+1. Visit [Kaggle for MiDaS TFLite](https://www.kaggle.com/models/intel/midas/tfLite/v2-1-small-lite/1?tfhub-redirect=true).
 2. Download the file `midas_v2_1_small_256.tflite`.
 3. Save the file in the same directory as the script or specify the path in the code.
 
