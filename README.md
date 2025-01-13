@@ -40,12 +40,7 @@ The script uses the MiDaS v2.1 small TFLite model. Follow these steps to downloa
 
 ## Usage
 
-### Clone the Repository
 
-```bash
-git clone https://github.com/Real-J/Depth-Estimation-Using-MiDaS.git
-cd depth-estimation-tflite
-```
 
 ### Run the Script
 
